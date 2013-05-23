@@ -1,10 +1,9 @@
 Breakthrough-AI
 ===============
 
-Simple game Minmax AI
 School project with teammates Sacha Tousignant and Alexandre Sanscartier.
 
-AI for [Breakthrough](http://en.wikipedia.org/wiki/Breakthrough_%28board_game%29)
+AI for a [Breakthrough](http://en.wikipedia.org/wiki/Breakthrough_%28board_game%29) tournament.
 
 This is our AI in all of its glory, with its debug code, comments, relic code... and bugs.
 Out of 24 teams in the tournament, we were taken out by the winning team, due to a boolean bug in our [AlphaBeta](http://en.wikipedia.org/wiki/Alpha%E2%80%93beta_pruning) pruning code, *only when playing black*.
