@@ -1,7 +1,7 @@
 Breakthrough-AI
 ===============
 
-School project with teammates Sacha Tousignant and Alexandre Sanscartier.
+School project with teammates [Sacha Tousignant](https://github.com/stousignant) and Alexandre Sanscartier.
 
 AI for a [Breakthrough](http://en.wikipedia.org/wiki/Breakthrough_%28board_game%29) tournament.
 
@@ -13,6 +13,6 @@ It goes without saying that the AlphaBeta bug when playing black cost us the fir
 
 Simon Grondin: architecture, multithreading and everything else, except:
 
-Sacha Tousignant: heuristics (Analyzer.java)
+[Sacha Tousignant](https://github.com/stousignant): heuristics (Analyzer.java)
 
 Alexandre Sanscartier: bitboard code (Bitsmagic.java)
