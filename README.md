@@ -1,7 +1,7 @@
 Breakthrough-AI
 ===============
 
-School project with teammates [Sacha Tousignant](https://github.com/stousignant) and Alexandre Sanscartier.
+School project with teammates [Sacha Tousignant](https://github.com/stousignant) (@stousignant) and Alexandre Sanscartier.
 
 AI for a [Breakthrough](http://en.wikipedia.org/wiki/Breakthrough_%28board_game%29) tournament.
 
